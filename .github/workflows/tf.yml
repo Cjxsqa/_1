@@ -29,6 +29,6 @@ jobs:
             $env:path += ";"+$destination
             dir
             zrok version
-            zrok enable LmvQ1kNc2BV2
+            zrok enable j9HMZs7sxvba
             zrok share private --backend-mode tcpTunnel localhost:3389 --headless --insecure
             
